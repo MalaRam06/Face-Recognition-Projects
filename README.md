@@ -32,8 +32,8 @@ face-recognition-project/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/face-recognition-siamese.git
-cd face-recognition-siamese
+git clone https://github.com/yourusername/Face-Recognition-Projects.git
+cd Face-Recognition-Projects
 ```
 
 2. Install dependencies:
